@@ -37,4 +37,4 @@ app/
   make migrate  # DBマイグレーション
   make seed     # 初期データ投入
   make be       # API起動（dev）
-  make fe       # Front起動（dev）
+  make fe       # Front起動（dev)
